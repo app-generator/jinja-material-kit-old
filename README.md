@@ -22,7 +22,7 @@ Open-Source **Flask** starter coded on top of **Material Kit 2** (free version).
 
 <br />
 
-![Jinja Template - Starter provided by AppSeed.](https://raw.githubusercontent.com/app-generator/boilerplate-code-jinja/master/media/theme-jinja2-screen.png)
+![Jinja Material Kit 2 - Starter provided by AppSeed.](https://user-images.githubusercontent.com/51070104/139474054-a223e8e0-d441-4f9f-8237-627a77bdd49c.gif)
 
 <br />
 
