@@ -1,6 +1,6 @@
-# [Jinja Template](https://appseed.us/jinja-template)
+# Jinja Material Kit 2
 
-> Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple starters coded in [Flask](https://palletsprojects.com/p/flask/). 
+Open-Source **Flask** starter coded on top of **Material Kit 2** (free version). For newcomers, Material Kit is a **Free Bootstrap 5 UI Kit** with a fresh, new design inspired by Google's material design. This simple Flask project can be used to code beautiful websites with a modern design.
 
 <br />
 
@@ -8,7 +8,7 @@
 
 - Up-to-date [dependencies](./requirements.txt): **Flask 2.0.1**
 - [SCSS compilation](#recompile-css) via **Gulp**
-- UI Kit: **Pixel Lite** (Free Version) by **Themesberg**
+- UI Kit: **Material Kit 2** (Free Version) by **Creative-Tim**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
 - Deployment scripts: Docker, Gunicorn/Nginx, HEROKU
 - Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
@@ -17,7 +17,7 @@
 
 > Links
 
-- [LIVE Demo](https://boilerplate-code-jinja.appseed-srv1.com/) - starter in action
+- [LIVE Demo](https://jinja-material-kit.appseed-srv1.com/) - starter in action
 - More [Jinja Templates](https://appseed.us/jinja-template) provided by AppSeed
 
 <br />
@@ -30,8 +30,8 @@
 
 ```bash
 $ # Clone the sources
-$ git clone https://github.com/app-generator/boilerplate-code-jinja.git
-$ cd boilerplate-code-jinja
+$ git clone https://github.com/app-generator/jinja-material-kit.git
+$ cd jinja-material-kit
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
@@ -172,8 +172,8 @@ The steps to start the template using Docker:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/boilerplate-code-jinja.git
-$ cd boilerplate-code-jinja
+$ git clone https://github.com/app-generator/jinja-material-kit.git
+$ cd jinja-material-kit
 ```
 
 > Start the app in Docker
@@ -198,8 +198,8 @@ Steps to deploy on **Heroku**
 
 ```bash
 $ # Clone the source code:
-$ git clone https://github.com/app-generator/boilerplate-code-jinja.git
-$ cd boilerplate-code-jinja
+$ git clone https://github.com/app-generator/jinja-material-kit.git
+$ cd jinja-material-kit
 $
 $ # Check Heroku CLI is installed
 $ heroku -v
@@ -270,4 +270,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja Template](https://appseed.us/jinja-template) - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
+Jinja Material Kit 2 - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
