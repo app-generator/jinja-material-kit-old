@@ -18,7 +18,7 @@ Open-Source **Flask** starter coded on top of **Material Kit 2** (free version).
 > Links
 
 - [LIVE Demo](https://jinja-material-kit.appseed-srv1.com/) - starter in action
-- [Flask Material Kit](https://appseed.us/apps/flask-apps/flask-material-kit) - complete version with databse and more features
+- [Flask Material Kit](https://appseed.us/apps/flask-apps/flask-material-kit) - complete version with database and more features
 - More [Jinja Templates](https://appseed.us/jinja-template) provided by AppSeed
 
 <br />
