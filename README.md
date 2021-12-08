@@ -19,7 +19,29 @@ Open-Source **Flask** starter coded on top of **Material Kit 2** (free version).
 
 - [LIVE Demo](https://jinja-material-kit.appseed-srv1.com/) - starter in action
 - [Flask Material Kit](https://appseed.us/apps/flask-apps/flask-material-kit) - complete version with database and more features
-- More [Jinja Templates](https://appseed.us/jinja-template) provided by AppSeed
+
+<br />
+
+## Quick Start in [Docker](https://www.docker.com/)
+
+> Get the code
+
+```bash
+$ git clone https://github.com/app-generator/jinja-material-kit.git
+$ cd jinja-material-kit
+```
+
+> Start the app in Docker
+
+```bash
+$ docker-compose up --build 
+```
+
+Visit `http://localhost:85` in your browser. The app should be up & running.
+
+<br />
+
+![Jinja Template - Datta Able, thumbnail image.](https://raw.githubusercontent.com/app-generator/jinja-datta-able/master/media/jinja-template-dattaable-dashboard-screen.png)
 
 <br />
 
@@ -162,30 +184,6 @@ The generated file is saved in `static/assets/css` directory.
 ## Deployment
 
 The project comes with a basic configuration for [Docker](https://www.docker.com/), [HEROKU](https://www.heroku.com/), [Gunicorn](https://gunicorn.org/), and [Waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/).
-
-<br />
-
-### [Docker](https://www.docker.com/) execution
----
-
-The steps to start the template using Docker:
-
-> Get the code
-
-```bash
-$ git clone https://github.com/app-generator/jinja-material-kit.git
-$ cd jinja-material-kit
-```
-
-> Start the app in Docker
-
-```bash
-$ sudo docker-compose pull && sudo docker-compose build && sudo docker-compose up -d
-```
-
-Visit `http://localhost:85` in your browser. The app should be up & running.
-
-<br />
 
 ### [Heroku](https://www.heroku.com/)
 ---
