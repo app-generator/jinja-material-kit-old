@@ -41,10 +41,6 @@ Visit `http://localhost:85` in your browser. The app should be up & running.
 
 <br />
 
-![Jinja Template - Datta Able, thumbnail image.](https://raw.githubusercontent.com/app-generator/jinja-datta-able/master/media/jinja-template-dattaable-dashboard-screen.png)
-
-<br />
-
 ![Jinja Material Kit 2 - Starter provided by AppSeed.](https://user-images.githubusercontent.com/51070104/139474054-a223e8e0-d441-4f9f-8237-627a77bdd49c.gif)
 
 <br />
