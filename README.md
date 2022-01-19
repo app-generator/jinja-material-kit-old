@@ -6,7 +6,7 @@ Open-Source **Flask** starter coded on top of **Material Kit 2** (free version).
 
 > Features:
 
-- Up-to-date [dependencies](./requirements.txt): **Flask 2.0.1**
+- `Up-to-date dependencies`
 - [SCSS compilation](#recompile-css) via **Gulp**
 - UI Kit: **Material Kit 2** (Free Version) by **Creative-Tim**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
