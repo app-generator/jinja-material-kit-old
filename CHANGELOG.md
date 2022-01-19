@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.1] 2021-01-19
+### Improvements
+
+- Migrate all UI kit pages to Jinja
+- Update Dependencies
+  - Flask `v2.0.2`
+
 ## [1.0.0] 2020-10-29
 ### Initial Release
 

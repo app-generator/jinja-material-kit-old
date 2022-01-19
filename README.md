@@ -10,19 +10,19 @@ Open-Source **Flask** starter coded on top of **Material Kit 2** (free version).
 - [SCSS compilation](#recompile-css) via **Gulp**
 - UI Kit: **Material Kit 2** (Free Version) by **Creative-Tim**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
-- Deployment scripts: Docker, Gunicorn/Nginx, HEROKU
+- `Deployment`: **Docker**, Gunicorn / Nginx, HEROKU
 - Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 <br />
 
 > Links
 
-- [LIVE Demo](https://jinja-material-kit.appseed-srv1.com/) - starter in action
-- [Flask Material Kit](https://appseed.us/apps/flask-apps/flask-material-kit) - complete version with database and more features
+- 👉 [Flask/Jinja Material Kit](https://appseed.us/apps/flask-apps/flask-material-kit) - product page
+- 👉 [Flask/Jinja Material Kit](https://jinja-material-kit.appseed-srv1.com/) - LIVE demo
 
 <br />
 
-## Quick Start in [Docker](https://www.docker.com/)
+## ✨ Quick Start in `Docker`
 
 > Get the code
 
@@ -45,7 +45,7 @@ Visit `http://localhost:85` in your browser. The app should be up & running.
 
 <br />
 
-## Build from sources
+## ✨ Build from sources
 
 ```bash
 $ # Clone the sources
@@ -83,7 +83,7 @@ $ # Access the UI in browser: http://127.0.0.1:5000/
 
 <br />
 
-## Code-base structure
+## ✨ Code-base structure
 
 The project has a simple structure, represented as bellow:
 
@@ -134,7 +134,7 @@ The project has a simple structure, represented as bellow:
 
 <br />
 
-## Recompile CSS
+## ✨ Recompile CSS
 
 To recompile SCSS files, follow this setup:
 
@@ -177,7 +177,7 @@ The generated file is saved in `static/assets/css` directory.
 
 <br />
 
-## Deployment
+## ✨ Deployment
 
 The project comes with a basic configuration for [Docker](https://www.docker.com/), [HEROKU](https://www.heroku.com/), [Gunicorn](https://gunicorn.org/), and [Waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/).
 
@@ -258,7 +258,7 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-## Credits & Links
+## ✨ Credits & Links
 
 - [Flask Framework](https://www.palletsprojects.com/p/flask/) - The official website
 
