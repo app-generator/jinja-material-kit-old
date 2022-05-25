@@ -1,5 +1,14 @@
 # Change Log
 
+## [1.0.2] 2022-05-22
+### Improvements
+
+- Built with [Material Kit Generator](https://appseed.us/generator/material-kit/)
+  - Timestamp: `2022-05-25 21:08`
+- Codebase refactoring
+- Added CDN Support
+  - via `.env` **ASSETS_ROOT**  
+
 ## [1.0.1] 2021-01-19
 ### Improvements
 
